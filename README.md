@@ -15,9 +15,8 @@ I am a passionate Full Stack Developer with experience in building web applicati
 - 💰 [Javac-Payroll---Shivam](https://github.com/anshucodeslife/Javac-Payroll---Shivam) - A payroll management system project.
 - 📗 [nodeJsLearning](https://github.com/anshucodeslife/nodeJsLearning) - Repository where I document and practice my Node.js learning journey.
 
-### 📈 GitHub Stats
-![Anshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshucodeslife&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshucodeslife&layout=compact&theme=radical)
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshucodeslife&theme=radical&hide_border=true)
 
 ### 📫 Let's Connect!
 - **GitHub:** [@anshucodeslife](https://github.com/anshucodeslife)
